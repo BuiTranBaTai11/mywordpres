@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Raphael</title>
+	<title>Tài</title>
 	<atom:link href="http://localhost/myproject/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>https://buitranbatai11.github.io/mywordpres</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Tue, 11 Oct 2022 02:00:45 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 11 Oct 2022 03:12:06 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
