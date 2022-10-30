@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/category/khong-phan-loai/feed/" rel="self" type="application/rss+xml" />
 	<link>https://buitranbatai11.github.io/mywordpres</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Tue, 18 Oct 2022 11:17:07 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 30 Oct 2022 06:02:28 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,118 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.3</generator>
 	<item>
+		<title></title>
+		<link>https://buitranbatai11.github.io/mywordpres/557-2/</link>
+					<comments>https://buitranbatai11.github.io/mywordpres/557-2/#respond</comments>
+		
+		<dc:creator><![CDATA[BuiTranBaTai]]></dc:creator>
+		<pubDate>Fri, 28 Oct 2022 19:41:55 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">https://buitranbatai11.github.io/mywordpres/?p=557</guid>
+
+					<description><![CDATA[Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry”s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into ... <a title="" class="read-more" href="https://buitranbatai11.github.io/mywordpres/557-2/" aria-label="More on ">Đọc tiếp</a>]]></description>
+										<content:encoded><![CDATA[
+<p></p>
+
+
+
+<figure class="wp-block-image size-full"><img width="870" height="517" src="https://buitranbatai11.github.io/mywordpres/wp-content/uploads/2022/10/blog-4.jpg" alt="" class="wp-image-558"/><figcaption>ALIQUAM TINCIDUNT MAURIS EU RISUS</figcaption></figure>
+
+
+
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry”s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+
+
+
+<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using “Content here, content here”, making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for “lorem ipsum” will uncover many web sites still in their infancy.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://buitranbatai11.github.io/mywordpres/557-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title></title>
+		<link>https://buitranbatai11.github.io/mywordpres/554-2/</link>
+					<comments>https://buitranbatai11.github.io/mywordpres/554-2/#respond</comments>
+		
+		<dc:creator><![CDATA[BuiTranBaTai]]></dc:creator>
+		<pubDate>Fri, 28 Oct 2022 19:41:17 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">https://buitranbatai11.github.io/mywordpres/?p=554</guid>
+
+					<description><![CDATA[Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry”s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into ... <a title="" class="read-more" href="https://buitranbatai11.github.io/mywordpres/554-2/" aria-label="More on ">Đọc tiếp</a>]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img loading="lazy" width="870" height="517" src="https://buitranbatai11.github.io/mywordpres/wp-content/uploads/2022/10/blog-2.jpg" alt="" class="wp-image-555"/><figcaption><h3 class="heading-title entry-title" style="box-sizing: border-box; clear: both; line-height: 24px; margin: 30px 0px 10px; padding: 0px; color: rgb(68, 68, 68); font-size: 21px; font-weight: bold; font-family: Dosis; text-transform: uppercase; font-style: normal; white-space: normal;"><span class="post-title" style="box-sizing: border-box;">ALIQUAM TINCIDUNT MAURIS EU RISUS</span></h3></figcaption></figure>
+
+
+
+<p><p style="box-sizing: border-box; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding: 0px; font-family: Lato; color: rgb(68, 68, 68); font-size: 14px; text-align: justify; white-space: normal;">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry”s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><span style="color: rgb(68, 68, 68); font-family: Lato; font-size: 14px; text-align: justify; white-space: normal; background-color: var(--base-3);">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using “Content here, content here”, making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for “lorem ipsum” will uncover many web sites still in their infancy.</span></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://buitranbatai11.github.io/mywordpres/554-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title></title>
+		<link>https://buitranbatai11.github.io/mywordpres/552-2/</link>
+					<comments>https://buitranbatai11.github.io/mywordpres/552-2/#respond</comments>
+		
+		<dc:creator><![CDATA[BuiTranBaTai]]></dc:creator>
+		<pubDate>Fri, 28 Oct 2022 19:40:10 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">https://buitranbatai11.github.io/mywordpres/?p=552</guid>
+
+					<description><![CDATA[Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry”s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into ... <a title="" class="read-more" href="https://buitranbatai11.github.io/mywordpres/552-2/" aria-label="More on ">Đọc tiếp</a>]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img loading="lazy" width="870" height="500" src="https://buitranbatai11.github.io/mywordpres/wp-content/uploads/2022/10/home4-slider3.jpg" alt="" class="wp-image-273"/><figcaption><br><br>ALIQUAM TINCIDUNT MAURIS EU RISUS</figcaption></figure>
+
+
+
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry”s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+
+
+
+<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using “Content here, content here”, making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for “lorem ipsum” will uncover many web sites still in their infancy.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://buitranbatai11.github.io/mywordpres/552-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title></title>
+		<link>https://buitranbatai11.github.io/mywordpres/549-2/</link>
+					<comments>https://buitranbatai11.github.io/mywordpres/549-2/#respond</comments>
+		
+		<dc:creator><![CDATA[BuiTranBaTai]]></dc:creator>
+		<pubDate>Fri, 28 Oct 2022 19:39:21 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">https://buitranbatai11.github.io/mywordpres/?p=549</guid>
+
+					<description><![CDATA[Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry”s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into ... <a title="" class="read-more" href="https://buitranbatai11.github.io/mywordpres/549-2/" aria-label="More on ">Đọc tiếp</a>]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img loading="lazy" width="870" height="517" src="https://buitranbatai11.github.io/mywordpres/wp-content/uploads/2022/10/blog-1.jpg" alt="" class="wp-image-550"/><figcaption>ALIQUAM TINCIDUNT MAURIS EU RISUS</figcaption></figure>
+
+
+
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry”s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+
+
+
+<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using “Content here, content here”, making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for “lorem ipsum” will uncover many web sites still in their infancy.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://buitranbatai11.github.io/mywordpres/549-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>3 Mẫu Đồng Hồ Nam Đẹp</title>
 		<link>https://buitranbatai11.github.io/mywordpres/https-mau-dong-ho-nam-dep/</link>
 					<comments>https://buitranbatai11.github.io/mywordpres/https-mau-dong-ho-nam-dep/#respond</comments>
